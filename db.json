@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Usama Ashraf",
+      "email": "usamaashraf728@gmail.com",
+      "phone": "03097185201",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Usama",
+      "email": "usamaashraf728@gmail.com",
+      "phone": "03058799455",
+      "active": true
+    },
+    {
+      "name": "Usama Ashraf",
+      "email": "ali@gmail.com",
+      "phone": "123123123123",
+      "active": true,
+      "id": 3
+    },
+    {
+      "name": "Usama Ashraf Muhammad Ashraf",
+      "email": "usamaashraf728@gmail.com",
+      "phone": "03097185201",
+      "active": true,
+      "id": 4
+    }
+  ]
+}
